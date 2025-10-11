@@ -1,0 +1,494 @@
+canonical_smiles,ligand_efficiency,pchembl_value,value,molecule_chembl_id,target_chembl_id,target_pref_name,target_organism
+CC1=C(O)C(C)(Cc2ccc(Cl)c(Cl)c2)SC1=O,,,100.0,CHEMBL383600,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '12.80', 'le': '0.26', 'lle': '-2.16', 'sei': '10.72'}",4.0,100.0,CHEMBL199542,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '14.06', 'le': '0.29', 'lle': '-1.38', 'sei': '10.72'}",4.0,100.0,CHEMBL381463,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(C)=CCC/C(C)=C/CC/C(C)=C/CC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL199771,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(C)=CCC/C(C)=C/CC1(C)SC(O)=C(C)C1=O,"{'bei': '14.26', 'le': '0.29', 'lle': '-0.93', 'sei': '10.72'}",4.0,100.0,CHEMBL197346,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(CC2CC2)SC1=O,,,100.0,CHEMBL200463,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC[C@H](C)CC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL370787,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '11.75', 'le': '0.24', 'lle': '-2.94', 'sei': '10.72'}",4.0,100.0,CHEMBL200655,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '12.25', 'le': '0.25', 'lle': '-2.55', 'sei': '10.72'}",4.0,100.0,CHEMBL200803,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+C=C/C(C)=C/[C@@]1(C)SC(=O)C(C)=C1O,,,,CHEMBL399043,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL196776,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL200240,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(CCc2ccccc2)SC1=O,,,1000.0,CHEMBL199900,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(CCCc2ccccc2)SC1=O,,,1000.0,CHEMBL201423,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1cc(CC2(C)SC(O)=C(C)C2=O)cc(OC)c1,,,1000.0,CHEMBL202817,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2c(C)cc(C)cc2C)SC1=O,,,1000.0,CHEMBL201261,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2cc(C)ccc2C)SC1=O,,,1000.0,CHEMBL379235,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2cccc(C)c2)SC1=O,,,1000.0,CHEMBL371660,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccccc2C)SC1=O,,,1000.0,CHEMBL381712,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2cccc(C(F)(F)F)c2)SC1=O,,,1000.0,CHEMBL201541,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)SC(C)(C(C)c2ccccc2)C1=O,,,1000.0,CHEMBL201752,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccc3ccccc3c2)SC1=O,,,1000.0,CHEMBL381559,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccc(C(C)(C)C)cc2)SC1=O,,,1000.0,CHEMBL333571,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2c(Cl)cccc2Cl)SC1=O,,,1000.0,CHEMBL199977,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccc(F)cc2)SC1=O,,,1000.0,CHEMBL381684,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccc(Cl)cc2)SC1=O,,,1000.0,CHEMBL382958,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccccc2Cl)SC1=O,,,1000.0,CHEMBL436318,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1cccc(CC2(C)SC(O)=C(C)C2=O)c1,,,1000.0,CHEMBL123184,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccccc1CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199810,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2cccc(Cl)c2)SC1=O,,,1000.0,CHEMBL201711,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(CC2(C)SC(O)=C(C)C2=O)cc1,,,1000.0,CHEMBL333467,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccc(C)cc2)SC1=O,,,1000.0,CHEMBL432983,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(Cc2ccc([N+](=O)[O-])cc2)SC1=O,,,1000.0,CHEMBL203154,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+C=CCCC1(C)SC(=O)C(C)=C1O,,,1000.0,CHEMBL380904,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+C=CCCCCCCC1(C)SC(=O)C(C)=C1O,,,1000.0,CHEMBL383537,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC/C=C/CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199428,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(CC2CCCCC2)SC1=O,,,1000.0,CHEMBL198344,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)C(C)(CC2CCC2)SC1=O,,,1000.0,CHEMBL373005,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCCCC(C)C1(C)SC(O)=C(C)C1=O,"{'bei': '12.80', 'le': '0.26', 'lle': '-2.02', 'sei': '10.72'}",4.0,100.0,CHEMBL199976,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCC(C)C1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199516,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCC(C)C1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199463,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCC(CC)CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL201227,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC1=C(O)SC(C)(CCC(C)C)C1=O,,,1000.0,CHEMBL202928,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL372341,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCCCCCCCC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL200363,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+S=C1SCCN1Cc1ccccc1,,,100.0,CHEMBL394409,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1N(Cc2ccc(Oc3ccc(C4CCCC4)cc3)cc2)CCS1(=O)=O,"{'bei': '14.58', 'le': '0.28', 'lle': '1.13', 'sei': '8.83'}",5.62,2.4,CHEMBL234754,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1SCCN1Cc1ccc(Oc2ccc(C3CCCC3)cc2)cc1,"{'bei': '13.70', 'le': '0.26', 'lle': '-0.97', 'sei': '16.39'}",4.84,14.4,CHEMBL393088,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+S=C1SCCN1Cc1ccc(Oc2ccc(C3CCCC3)cc2)cc1,"{'bei': '12.86', 'le': '0.26', 'lle': '-1.22', 'sei': '38.11'}",4.75,17.7,CHEMBL234753,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1N(Cc2ccc(Oc3ccccc3)cc2)CCS1(=O)=O,"{'bei': '19.05', 'le': '0.38', 'lle': '3.22', 'sei': '9.49'}",6.05,0.9,CHEMBL391599,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1SCCN1Cc1ccc(Oc2ccccc2)cc1,"{'bei': '17.39', 'le': '0.34', 'lle': '0.81', 'sei': '16.80'}",4.96,10.9,CHEMBL234545,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+S=C1SCCN1Cc1ccc(Oc2ccccc2)cc1,,,100.0,CHEMBL232480,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1SCCN1Cc1cccnc1,"{'bei': '24.11', 'le': '0.49', 'lle': '2.93', 'sei': '14.11'}",4.68,20.7,CHEMBL398054,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+S=C1SCCN1Cc1cccnc1,,,100.0,CHEMBL232479,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCN1CCS(=O)(=O)C1=O,,,100.0,CHEMBL397860,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCCN1CCSC1=S,,,100.0,CHEMBL232277,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CN1CCS(=O)(=O)C1=O,,,100.0,CHEMBL232276,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CN1CCSC1=S,,,100.0,CHEMBL397404,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1N(CCc2ccccc2)CCS1(=O)=O,"{'bei': '23.91', 'le': '0.49', 'lle': '4.64', 'sei': '10.51'}",5.72,1.9,CHEMBL397859,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+S=C1SCCN1CCc1ccccc1,,,100.0,CHEMBL232274,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1N(Cc2ccccc2)CCS1(=O)=O,"{'bei': '26.45', 'le': '0.54', 'lle': '4.92', 'sei': '10.94'}",5.96,1.1,CHEMBL233867,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C1SCCN1Cc1ccccc1,"{'bei': '25.16', 'le': '0.51', 'lle': '2.50', 'sei': '23.95'}",4.86,13.7,CHEMBL396081,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1c(Br)cc(Br)cc1/C=N/Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1,"{'bei': '10.43', 'le': '0.30', 'lle': '-1.35', 'sei': '9.47'}",5.44,3.6,CHEMBL569183,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccc(Br)cc1/C=N/Nc1nc(-c2ccc(Cl)cc2)cs1,"{'bei': '12.64', 'le': '0.31', 'lle': '-0.21', 'sei': '8.99'}",5.17,6.8,CHEMBL571253,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccc(Cl)cc1/C=N/Nc1nc(-c2ccc(Cl)cc2)cs1,"{'bei': '13.54', 'le': '0.29', 'lle': '-0.34', 'sei': '8.58'}",4.93,11.7,CHEMBL568263,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1c(Cl)cc(Cl)cc1/C=N/Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1,"{'bei': '11.04', 'le': '0.26', 'lle': '-1.80', 'sei': '8.32'}",4.78,16.5,CHEMBL571477,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccc(Cl)cc1/C=N/Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1,"{'bei': '11.04', 'le': '0.25', 'lle': '-1.52', 'sei': '7.65'}",4.4,39.6,CHEMBL577337,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccc(Br)cc1/C=N/Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1,"{'bei': '9.84', 'le': '0.25', 'lle': '-1.67', 'sei': '7.59'}",4.36,43.4,CHEMBL583111,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1c(Cl)cc(Cl)cc1/C=N/Nc1nc(-c2ccc(Cl)cc2)cs1,"{'bei': '10.63', 'le': '0.24', 'lle': '-1.68', 'sei': '7.37'}",4.24,57.6,CHEMBL571254,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1c(Br)cc(Br)cc1/C=N/Nc1nc(-c2ccc(Cl)cc2)cs1,"{'bei': '8.42', 'le': '0.23', 'lle': '-2.03', 'sei': '7.14'}",4.11,78.4,CHEMBL577308,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1cc(Br)ccc1O)c1ccccc1O,,,0.33,CHEMBL595491,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1cc(Br)cc(Br)c1O)c1ccccc1O,,,0.54,CHEMBL593880,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1cc(I)ccc1O)c1ccccc1O,,,0.65,CHEMBL611011,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1cc(I)ccc1O)c1ccccc1O,,,1.13,CHEMBL592923,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1cc(I)ccc1O)c1ccccc1O,,,1.5,CHEMBL595041,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1cc(Cl)ccc1O)c1ccccc1O,,,1.64,CHEMBL610486,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1cc(F)ccc1O)c1ccccc1O,,,1.76,CHEMBL594579,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1cc(Cl)ccc1O)c1ccccc1O,,,2.32,CHEMBL609272,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1cc(Cl)cc(Cl)c1O)c1ccccc1O,,,2.5,CHEMBL592924,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1cc(Cl)cc(Cl)c1O)c1ccccc1O,,,2.75,CHEMBL594149,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1cc(Cl)ccc1O)c1ccccc1O,,,2.77,CHEMBL593441,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1cc(Cl)cc(Cl)c1O)c1ccccc1O,,,2.95,CHEMBL596190,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1c(O)ccc2ccccc12)c1ccccc1O,,,3.0,CHEMBL594093,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1c(O)ccc2ccccc12)c1ccccc1O,,,3.1,CHEMBL596423,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1cc(Br)cc(Br)c1O)c1ccccc1O,,,3.11,CHEMBL596191,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1cc(Br)ccc1O)c1ccccc1O,,,6.22,CHEMBL593385,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1cc(Br)ccc1O)c1ccccc1O,,,6.25,CHEMBL592925,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1cc(I)cc(I)c1O)c1ccccc1O,,,6.25,CHEMBL596422,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1cc(Br)cc(Br)c1O)c1ccccc1O,,,6.25,CHEMBL594110,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1cc(Br)cc(Br)c1O)c1ccccc1O,,,6.31,CHEMBL594150,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1cc(F)ccc1O)c1ccccc1O,,,6.35,CHEMBL593386,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1ccccc1O)c1ccccc1O,,,7.25,CHEMBL594319,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1c(O)ccc2ccccc12)c1ccccc1O,,,9.75,CHEMBL594782,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1cc(Cl)ccc1O)c1ccccc1O,,,10.0,CHEMBL610172,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1cc(F)ccc1O)c1ccccc1O,,,10.35,CHEMBL595276,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccccc1/C=N/CCC/N=C/c1ccccc1O,,,12.25,CHEMBL593165,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1ccccc1O)c1ccccc1O,,,12.5,CHEMBL594101,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1cc(Br)ccc1O)c1ccccc1O,,,12.53,CHEMBL593882,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCNC(=O)c1ccccc1O)c1ccccc1O,,,12.59,CHEMBL593617,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCC/N=C/c1cc(I)cc(I)c1O)c1ccccc1O,,,12.72,CHEMBL593881,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCC/N=C/c1cc(I)cc(I)c1O)c1ccccc1O,,,12.95,CHEMBL594814,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccccc1/C=N/CCCC/N=C/c1ccccc1O,,,13.04,CHEMBL593618,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCNC(=O)c1ccccc1O)c1ccccc1O,,,13.15,CHEMBL426397,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCC/N=C/c1ccccc1O)c1ccccc1O,,,13.57,CHEMBL595277,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccccc1/C=N/CCCCCC/N=C/c1ccccc1O,,,14.47,CHEMBL1163022,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1cc(I)cc(I)c1O)c1ccccc1O,,,15.28,CHEMBL594111,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCNC(=O)c1ccccc1O)c1ccccc1O,,,16.51,CHEMBL594783,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1ccccc1O)c1ccccc1O,,,22.16,CHEMBL594102,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1cc(I)ccc1O)c1ccccc1O,,,26.55,CHEMBL594812,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1cc(F)ccc1O)c1ccccc1O,,,40.0,CHEMBL592926,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1cc(Cl)cc(Cl)c1O)c1ccccc1O,,,50.0,CHEMBL593650,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCC/N=C/c1c(O)ccc2ccccc12)c1ccccc1O,,,50.0,CHEMBL594112,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(NCCCCCCNC(=O)c1ccccc1O)c1ccccc1O,,,50.0,CHEMBL418562,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccccc1/C=N/CC/N=C/c1ccccc1O,,,50.0,CHEMBL594100,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1ccccc1O,,,8.14,CHEMBL1092195,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1cc(F)ccc1O,,,12.11,CHEMBL1092196,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1cc(Cl)ccc1O,,,5.46,CHEMBL1092197,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1cc(Br)ccc1O,,,6.03,CHEMBL1089128,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1cc(I)ccc1O,,,0.78,CHEMBL1089129,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1cc(Cl)cc(Cl)c1O,,,0.31,CHEMBL1089130,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1cc(Br)cc(Br)c1O,,,3.13,CHEMBL1091178,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1cc(I)cc(I)c1O,,,2.56,CHEMBL1091179,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1ccccc1O)/N=C/c1c(O)ccc2ccccc12,,,19.75,CHEMBL1089091,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1ccccc1O,,,50.0,CHEMBL1089092,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1cc(F)ccc1O,,,22.12,CHEMBL1089093,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1cc(Cl)ccc1O,,,50.0,CHEMBL1089426,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1cc(Br)ccc1O,,,16.71,CHEMBL1093268,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1cc(I)ccc1O,,,9.32,CHEMBL1089884,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1cc(Cl)cc(Cl)c1O,,,8.75,CHEMBL1089885,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1cc(Br)cc(Br)c1O,,,50.0,CHEMBL1091733,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1cc(I)cc(I)c1O,,,50.0,CHEMBL1089886,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CC(CNC(=O)c1cc(Br)ccc1O)/N=C/c1c(O)ccc2ccccc12,,,10.94,CHEMBL1093569,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2ccccc2O)c(O)c1,,,7.88,CHEMBL1093570,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2cc(F)ccc2O)c(O)c1,,,5.66,CHEMBL1090219,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2cc(Cl)ccc2O)c(O)c1,,,8.64,CHEMBL1090220,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2cc(Br)ccc2O)c(O)c1,,,6.33,CHEMBL1090221,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2cc(I)ccc2O)c(O)c1,,,0.45,CHEMBL1090240,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2cc(Cl)cc(Cl)c2O)c(O)c1,,,1.75,CHEMBL1091660,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2cc(Br)cc(Br)c2O)c(O)c1,,,5.37,CHEMBL1091941,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2cc(I)cc(I)c2O)c(O)c1,,,14.95,CHEMBL1091942,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)NCC(C)/N=C/c2c(O)ccc3ccccc23)c(O)c1,,,4.68,CHEMBL1091943,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C2=NN(C(C)=O)C(c3ccc(F)cc3)C2)cc1,"{'bei': '17.21', 'le': '0.32', 'lle': '1.85', 'sei': '12.83'}",5.38,4.2,CHEMBL1210851,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C2=NN(C(C)=O)C(c3ccc(Cl)cc3)C2)cc1,"{'bei': '15.57', 'le': '0.30', 'lle': '1.07', 'sei': '12.22'}",5.12,7.6,CHEMBL1210852,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C2=NN(C(C)=O)C(c3ccc(Br)cc3)C2)cc1,"{'bei': '13.35', 'le': '0.30', 'lle': '0.82', 'sei': '11.89'}",4.98,10.4,CHEMBL1210853,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C2=NN(C(C)=O)C(c3ccc(C)cc3)C2)cc1,"{'bei': '15.44', 'le': '0.28', 'lle': '1.06', 'sei': '11.37'}",4.76,17.3,CHEMBL1210854,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C2=NN(C(C)=O)C(c3ccc(OC)cc3)C2)cc1,"{'bei': '14.51', 'le': '0.27', 'lle': '1.31', 'sei': '9.21'}",4.71,19.6,CHEMBL1210918,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C2=NN(C(C)=O)C(c3ccccc3Cl)C2)cc1,"{'bei': '13.70', 'le': '0.27', 'lle': '0.45', 'sei': '10.75'}",4.5,31.4,CHEMBL1210919,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C2=NN(C(C)=O)C(c3ccccc3)C2)cc1,"{'bei': '14.71', 'le': '0.27', 'lle': '0.94', 'sei': '10.34'}",4.33,46.7,CHEMBL1210920,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCOC(=O)/C(=C\Nc1ccc(Br)cc1)c1ccc(OCc2ccccc2)cc1,"{'bei': '12.12', 'le': '0.26', 'lle': '-0.56', 'sei': '11.53'}",5.48,3.3,CHEMBL1808651,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCOC(=O)/C(=C\Nc1ccc(C)cc1)c1ccc(OCc2ccccc2)cc1,"{'bei': '14.41', 'le': '0.26', 'lle': '0.00', 'sei': '11.74'}",5.58,2.6,CHEMBL1808653,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCOC(=O)/C(=C\Nc1ccc(Br)cc1Br)c1ccc(OCc2ccccc2)cc1,"{'bei': '8.70', 'le': '0.21', 'lle': '-2.19', 'sei': '9.71'}",4.62,24.0,CHEMBL1808655,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCOC(=O)/C(=C\Nc1ccccc1Cl)c1ccc(OCc2ccccc2)cc1,"{'bei': '11.16', 'le': '0.21', 'lle': '-1.39', 'sei': '9.57'}",4.55,28.0,CHEMBL1808657,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCOC(=O)/C(=C\Nc1ccc(F)cc1)c1ccc(OCc2ccccc2)cc1,"{'bei': '12.99', 'le': '0.24', 'lle': '-0.33', 'sei': '10.69'}",5.09,8.2,CHEMBL1808659,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCOC(=O)/C(=C/Nc1ccc(Br)cc1)c1ccc(OCc2ccccc2)cc1,"{'bei': '9.65', 'le': '0.21', 'lle': '-1.67', 'sei': '9.18'}",4.37,43.0,CHEMBL1808652,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+CCOC(=O)/C(=C/Nc1ccc(C(C)C)cc1)c1ccc(OCc2ccccc2)cc1,"{'bei': '12.20', 'le': '0.22', 'lle': '-1.34', 'sei': '10.66'}",5.07,8.5,CHEMBL1808664,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)ccc1O)c1ccccc1F,"{'bei': '10.66', 'le': '0.23', 'lle': '-1.10', 'sei': '8.42'}",4.43,37.4,CHEMBL1808846,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)ccc1O)c1ccc(F)cc1,"{'bei': '12.48', 'le': '0.27', 'lle': '-0.35', 'sei': '9.85'}",5.18,6.6,CHEMBL1808847,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)ccc1O)c1ccccc1Cl,"{'bei': '10.80', 'le': '0.24', 'lle': '-1.39', 'sei': '8.87'}",4.66,21.8,CHEMBL1808848,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)ccc1O)c1ccc(Cl)cc1,"{'bei': '12.34', 'le': '0.28', 'lle': '-0.72', 'sei': '10.13'}",5.33,4.7,CHEMBL1808849,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)ccc1O)c1ccccc1Br,"{'bei': '8.92', 'le': '0.22', 'lle': '-1.91', 'sei': '8.08'}",4.25,56.4,CHEMBL1808850,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)ccc1O)c1ccc(Br)cc1,"{'bei': '9.21', 'le': '0.23', 'lle': '-1.77', 'sei': '8.35'}",4.39,41.0,CHEMBL1808851,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)cc(Br)c1O)c1ccc(F)cc1,"{'bei': '8.39', 'le': '0.21', 'lle': '-2.16', 'sei': '7.88'}",4.14,71.7,CHEMBL1808855,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)cc(Br)c1O)c1ccccc1Cl,"{'bei': '8.40', 'le': '0.22', 'lle': '-2.52', 'sei': '8.16'}",4.29,51.5,CHEMBL1808856,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(Nc1ccccc1)N(Cc1cc(Br)cc(Br)c1O)c1ccc(Cl)cc1,"{'bei': '9.78', 'le': '0.25', 'lle': '-1.81', 'sei': '9.50'}",5.0,10.1,CHEMBL1808857,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Nc1ccn([C@H]2CC[C@@H](COP(=O)(O)O)O2)c(=O)n1,"{'bei': '19.50', 'le': '0.41', 'lle': '6.07', 'sei': '4.15'}",5.68,2.1,CHEMBL1232305,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(O)/C=C/c1ccccc1,"{'bei': '29.44', 'le': '0.54', 'lle': '2.58', 'sei': '11.70'}",4.36,43.4,CHEMBL27246,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)O,"{'bei': '24.54', 'le': '0.48', 'lle': '4.07', 'sei': '5.60'}",4.54,28.5,CHEMBL498847,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1cccc2ccccc12,"{'bei': '11.80', 'le': '0.22', 'lle': '0.41', 'sei': '4.94'}",4.31,48.9,CHEMBL1807661,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1ccc(Cl)cc1Cl,"{'bei': '13.08', 'le': '0.27', 'lle': '0.98', 'sei': '5.76'}",5.03,9.4,CHEMBL1807660,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1ccc(N(C)C)cc1,"{'bei': '13.12', 'le': '0.25', 'lle': '1.89', 'sei': '5.20'}",4.7,19.8,CHEMBL1807659,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1ccc(OCc2ccccc2)cc1,"{'bei': '12.28', 'le': '0.23', 'lle': '0.85', 'sei': '5.36'}",5.17,6.7,CHEMBL1807658,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1ccc(-c2ccccc2)cc1,"{'bei': '14.31', 'le': '0.26', 'lle': '1.19', 'sei': '6.42'}",5.6,2.5,CHEMBL1807657,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1ccc(Br)cc1,"{'bei': '12.19', 'le': '0.27', 'lle': '1.30', 'sei': '5.51'}",4.81,15.6,CHEMBL1807654,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1ccc(Cl)cc1,"{'bei': '12.76', 'le': '0.25', 'lle': '1.06', 'sei': '5.12'}",4.46,34.3,CHEMBL1807653,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1cccc(Br)c1,"{'bei': '11.57', 'le': '0.26', 'lle': '1.05', 'sei': '5.23'}",4.56,27.5,CHEMBL1807927,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1cccc(F)c1,"{'bei': '15.26', 'le': '0.29', 'lle': '2.21', 'sei': '5.83'}",5.09,8.2,CHEMBL1807926,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ncc([N+](=O)[O-])n1CC(C)OC(=O)/C=C/c1ccccc1Br,"{'bei': '11.15', 'le': '0.25', 'lle': '0.89', 'sei': '5.04'}",4.4,40.1,CHEMBL1807924,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Sc1nnc(-c2cnccn2)n1/N=C/c1ccc(Cl)cc1Cl,,,100.0,CHEMBL3098271,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Sc1nnc(-c2cnccn2)n1/N=C/c1ccc(Cl)cc1,,,100.0,CHEMBL3098266,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1cccc(/C=N/n2c(S)nnc2-c2cnccn2)c1,"{'bei': '14.47', 'le': '0.28', 'lle': '2.71', 'sei': '4.85'}",4.32,48.3,CHEMBL3098260,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(/C=N/n2c(S)nnc2-c2cnccn2)cc1OC,"{'bei': '12.68', 'le': '0.25', 'lle': '2.42', 'sei': '4.97'}",4.34,45.5,CHEMBL3098252,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccc(/C=N/n2c(S)nnc2-c2cnccn2)cc1,"{'bei': '15.20', 'le': '0.29', 'lle': '2.92', 'sei': '5.09'}",4.53,29.3,CHEMBL3098258,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(/C=N/n2c(S)nnc2-c2cnccn2)cc1,"{'bei': '15.41', 'le': '0.30', 'lle': '2.36', 'sei': '6.63'}",4.57,27.1,CHEMBL3098267,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccc(/C=N/n2c(S)nnc2-c2cnccn2)cc1O,"{'bei': '14.66', 'le': '0.29', 'lle': '3.29', 'sei': '4.22'}",4.61,24.6,CHEMBL3098261,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccccc1/C=N/n1c(S)nnc1-c1cnccn1,"{'bei': '14.86', 'le': '0.29', 'lle': '2.73', 'sei': '5.94'}",4.64,22.9,CHEMBL3098255,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1cc(/C=N/n2c(S)nnc2-c2cnccn2)cc(OC)c1OC,"{'bei': '12.95', 'le': '0.25', 'lle': '2.89', 'sei': '4.99'}",4.82,15.1,CHEMBL3098254,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1cc(OC)c(OC)cc1/C=N/n1c(S)nnc1-c1cnccn1,"{'bei': '13.14', 'le': '0.26', 'lle': '2.96', 'sei': '5.07'}",4.89,12.8,CHEMBL3098253,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O,"{'bei': '10.76', 'le': '0.22', 'lle': '12.53', 'sei': '1.80'}",5.2,6.3,CHEMBL176,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1ccccc1/C=N/n1c(S)nnc1-c1cnccn1,"{'bei': '17.71', 'le': '0.34', 'lle': '3.67', 'sei': '5.93'}",5.28,5.2,CHEMBL3098259,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2ccccc2)cc1,"{'bei': '10.01', 'le': '0.18', 'lle': '-2.00', 'sei': '8.63'}",4.55,28.23,CHEMBL4519890,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2ccccc2C)cc1,"{'bei': '9.50', 'le': '0.17', 'lle': '-2.41', 'sei': '8.44'}",4.45,35.41,CHEMBL4475489,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2cccc(C)c2)cc1,"{'bei': '9.56', 'le': '0.17', 'lle': '-2.38', 'sei': '8.50'}",4.48,33.17,CHEMBL4446325,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(C)cc3)nc3ccccc32)cc1,"{'bei': '11.77', 'le': '0.21', 'lle': '-1.35', 'sei': '10.46'}",5.51,3.06,CHEMBL4476826,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2ccc(Cl)cc2)cc1,"{'bei': '9.03', 'le': '0.17', 'lle': '-2.79', 'sei': '8.38'}",4.42,38.24,CHEMBL4515120,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1ccccc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(F)cc2)nc2ccccc21,"{'bei': '10.15', 'le': '0.18', 'lle': '-1.72', 'sei': '8.83'}",4.66,22.08,CHEMBL4453189,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccccc1C(=O)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(F)cc2)nc2ccccc21,"{'bei': '9.37', 'le': '0.17', 'lle': '-2.26', 'sei': '8.40'}",4.43,37.23,CHEMBL4522020,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1cccc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(F)cc3)nc3ccccc32)c1,"{'bei': '9.45', 'le': '0.17', 'lle': '-2.22', 'sei': '8.47'}",4.47,34.11,CHEMBL4538507,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(F)cc3)nc3ccccc32)cc1,"{'bei': '9.56', 'le': '0.17', 'lle': '-2.17', 'sei': '8.57'}",4.52,30.33,CHEMBL4593863,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1ccc(Cl)cc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(F)cc2)nc2ccccc21,"{'bei': '9.01', 'le': '0.17', 'lle': '-2.60', 'sei': '8.43'}",4.44,36.09,CHEMBL4542719,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1ccccc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(C(F)(F)F)cc2)nc2ccccc21,"{'bei': '9.03', 'le': '0.16', 'lle': '-2.67', 'sei': '8.71'}",4.59,25.65,CHEMBL4550391,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccccc1C(=O)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(C(F)(F)F)cc2)nc2ccccc21,"{'bei': '8.49', 'le': '0.16', 'lle': '-3.13', 'sei': '8.42'}",4.44,36.45,CHEMBL4579677,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1cccc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(C(F)(F)F)cc3)nc3ccccc32)c1,"{'bei': '8.53', 'le': '0.16', 'lle': '-3.11', 'sei': '8.46'}",4.46,34.86,CHEMBL4459693,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(C(F)(F)F)cc3)nc3ccccc32)cc1,"{'bei': '8.61', 'le': '0.16', 'lle': '-3.07', 'sei': '8.53'}",4.5,31.82,CHEMBL4542273,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1ccc(Cl)cc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(C(F)(F)F)cc2)nc2ccccc21,"{'bei': '8.10', 'le': '0.15', 'lle': '-3.52', 'sei': '8.35'}",4.4,39.81,CHEMBL4457694,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2cccnc2)cc1,"{'bei': '10.40', 'le': '0.18', 'lle': '-1.21', 'sei': '7.22'}",4.74,18.33,CHEMBL4463666,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2cncc(C)c2)cc1,"{'bei': '10.69', 'le': '0.19', 'lle': '-1.24', 'sei': '7.65'}",5.02,9.56,CHEMBL4537282,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2ccc(C)nc2)cc1,"{'bei': '10.16', 'le': '0.18', 'lle': '-1.49', 'sei': '7.28'}",4.77,16.88,CHEMBL4549786,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1cccnc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(F)cc2)nc2ccccc21,"{'bei': '12.87', 'le': '0.23', 'lle': '0.13', 'sei': '9.01'}",5.91,1.22,CHEMBL4446312,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1cncc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(F)cc3)nc3ccccc32)c1,"{'bei': '9.83', 'le': '0.18', 'lle': '-1.43', 'sei': '7.10'}",4.66,22.09,CHEMBL4471509,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(F)cc3)nc3ccccc32)cn1,"{'bei': '11.40', 'le': '0.20', 'lle': '-0.69', 'sei': '8.23'}",5.4,4.02,CHEMBL4469459,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1cccnc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(C(F)(F)F)cc2)nc2ccccc21,"{'bei': '9.46', 'le': '0.17', 'lle': '-1.84', 'sei': '7.34'}",4.82,15.23,CHEMBL4535737,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1cncc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(C(F)(F)F)cc3)nc3ccccc32)c1,"{'bei': '8.86', 'le': '0.16', 'lle': '-2.33', 'sei': '7.07'}",4.64,22.89,CHEMBL4587004,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(C(=O)n2c(-c3cn(-c4ccccc4)nc3-c3ccc(C(F)(F)F)cc3)nc3ccccc32)cn1,"{'bei': '10.87', 'le': '0.20', 'lle': '-1.28', 'sei': '8.67'}",5.69,2.05,CHEMBL4514635,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1ccncc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(F)cc2)nc2ccccc21,"{'bei': '9.73', 'le': '0.17', 'lle': '-1.31', 'sei': '6.81'}",4.47,33.88,CHEMBL4463245,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+O=C(c1ccncc1)n1c(-c2cn(-c3ccccc3)nc2-c2ccc(C(F)(F)F)cc2)nc2ccccc21,"{'bei': '8.80', 'le': '0.16', 'lle': '-2.17', 'sei': '6.84'}",4.49,32.67,CHEMBL4449529,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Cc1ccc(-c2nn(-c3ccccc3)cc2-c2nc3ccccc3n2C(=O)c2ccncc2)cc1,"{'bei': '9.92', 'le': '0.18', 'lle': '-1.43', 'sei': '6.89'}",4.52,30.28,CHEMBL4589947,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1cc(/C=C2/SC(=S)N(CC(=O)c3ccccc3)C2=O)cc(OC)c1OC,,,780.0,CHEMBL4552935,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1ccc(C(=O)CN2C(=O)/C(=C\c3cc(OC)c(OC)c(OC)c3)SC2=S)cc1,,,900.0,CHEMBL4579264,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,,,850.0,CHEMBL849,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+NNC(=O)c1ccncc1,,,1000.0,CHEMBL64,CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli
+COc1cccc(CC2(C)SC(O)=C(C)C2=O)c1,,,500.0,CHEMBL123184,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cc(F)cc(F)c2)SC1=O,,,263.0,CHEMBL122699,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC(=O)Nc1cccc(-c2ccc(CC3(C)SC(O)=C(C)C3=O)cc2)c1,,,119.0,CHEMBL124117,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(Oc3ccccc3)c2)SC1=O,"{'bei': '13.12', 'le': '0.25', 'lle': '-0.61', 'sei': '9.21'}",4.28,52.0,CHEMBL332364,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C)cc2)SC1=O,,,112.0,CHEMBL432983,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(C(C)(C)C)cc3)cc2)SC1=O,"{'bei': '12.56', 'le': '0.24', 'lle': '-1.46', 'sei': '12.34'}",4.6,25.0,CHEMBL123594,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccccc3)cc2)SC1=O,"{'bei': '13.83', 'le': '0.27', 'lle': '-0.47', 'sei': '11.51'}",4.29,51.0,CHEMBL333742,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(CO)cc3)cc2)SC1=O,"{'bei': '13.87', 'le': '0.27', 'lle': '0.47', 'sei': '8.21'}",4.72,19.0,CHEMBL122848,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(-c3ccccc3)c2)SC1=O,,,215.0,CHEMBL332417,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=C/C(C)=C\C1(C)SC(O)=C(C)C1=O,"{'bei': '19.62', 'le': '0.40', 'lle': '1.15', 'sei': '11.06'}",4.13,74.9,CHEMBL331347,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(C)cc3)cc2)SC1=O,"{'bei': '13.20', 'le': '0.25', 'lle': '-0.79', 'sei': '11.49'}",4.28,52.0,CHEMBL123595,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C(C)(C)C)cc2)SC1=O,"{'bei': '15.03', 'le': '0.30', 'lle': '-0.02', 'sei': '11.71'}",4.37,43.0,CHEMBL333571,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(C=O)cc3)cc2)SC1=O,"{'bei': '13.41', 'le': '0.26', 'lle': '-0.03', 'sei': '8.35'}",4.54,29.0,CHEMBL123181,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1ccc(CC2(C)SC(O)=C(C)C2=O)cc1,,,155.0,CHEMBL333467,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(F)cc2F)SC1=O,,,246.0,CHEMBL331729,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccccc2)SC1=O,,,250.0,CHEMBL123876,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(I)cc2)SC1=O,,,153.0,CHEMBL123998,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(COCc4ccccc4)cc3)cc2)SC1=O,"{'bei': '11.08', 'le': '0.21', 'lle': '-1.71', 'sei': '10.25'}",4.77,17.0,CHEMBL124220,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(Cl)c(Cl)c2)SC1=O,,,100.0,CHEMBL383600,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(Cl)cc2Cl)SC1=O,,,100.0,CHEMBL200281,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C(F)(F)F)cc2)SC1=O,,,100.0,CHEMBL200101,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=CCCCC1(C)SC(=O)C(C)=C1O,,,100.0,CHEMBL199776,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=CCCCCC1(C)SC(=O)C(C)=C1O,,,100.0,CHEMBL200852,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC(C)=CCC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL196418,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(C2CCCCC2)SC1=O,,,100.0,CHEMBL199436,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL381463,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=C/C(C)=C/[C@@]1(C)SC(=O)C(C)=C1O,"{'bei': '19.31', 'le': '0.40', 'lle': '1.08', 'sei': '10.89'}",4.06,87.0,CHEMBL399043,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '12.03', 'le': '0.24', 'lle': '-2.84', 'sei': '10.98'}",4.1,80.0,CHEMBL200655,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '12.55', 'le': '0.25', 'lle': '-2.45', 'sei': '10.98'}",4.1,80.0,CHEMBL200803,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '13.76', 'le': '0.28', 'lle': '-1.86', 'sei': '11.53'}",4.3,50.0,CHEMBL199542,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C/C=C/C(C)=C/[C@@]1(C)SC(O)=C(C)C1=O,"{'bei': '19.17', 'le': '0.39', 'lle': '0.93', 'sei': '11.53'}",4.3,50.0,CHEMBL382200,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=C/C=C/C1(C)SC(=O)C(C)=C1O,"{'bei': '23.45', 'le': '0.48', 'lle': '2.01', 'sei': '12.34'}",4.6,25.0,CHEMBL203309,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=C/C(C)=C/[C@@]1(C)SC(=O)C(C)=C1O,"{'bei': '25.67', 'le': '0.53', 'lle': '2.42', 'sei': '14.47'}",5.4,4.0,CHEMBL399043,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCC(C)C1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL383601,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL196776,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=C/C(C)=C/C1(C)SC(O)=C(C)C1=O,,,,CHEMBL322740,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL200240,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CCc2ccccc2)SC1=O,,,1000.0,CHEMBL199900,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CCCc2ccccc2)SC1=O,,,1000.0,CHEMBL201423,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1cc(CC2(C)SC(O)=C(C)C2=O)cc(OC)c1,,,1000.0,CHEMBL202817,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2c(C)cc(C)cc2C)SC1=O,,,1000.0,CHEMBL201261,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cc(C)ccc2C)SC1=O,,,1000.0,CHEMBL379235,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(C)c2)SC1=O,,,1000.0,CHEMBL371660,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccccc2C)SC1=O,,,1000.0,CHEMBL381712,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(C(F)(F)F)c2)SC1=O,,,1000.0,CHEMBL201541,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)SC(C)(C(C)c2ccccc2)C1=O,,,1000.0,CHEMBL201752,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc3ccccc3c2)SC1=O,,,100.0,CHEMBL381559,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C(C)(C)C)cc2)SC1=O,,,100.0,CHEMBL333571,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2c(Cl)cccc2Cl)SC1=O,,,1000.0,CHEMBL199977,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(F)cc2)SC1=O,,,100.0,CHEMBL381684,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(Cl)cc2)SC1=O,,,100.0,CHEMBL382958,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccccc2Cl)SC1=O,,,1000.0,CHEMBL436318,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1cccc(CC2(C)SC(O)=C(C)C2=O)c1,,,1000.0,CHEMBL123184,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1ccccc1CC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL199810,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(Cl)c2)SC1=O,,,1000.0,CHEMBL201711,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1ccc(CC2(C)SC(O)=C(C)C2=O)cc1,,,1000.0,CHEMBL333467,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C)cc2)SC1=O,,,1000.0,CHEMBL432983,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc([N+](=O)[O-])cc2)SC1=O,,,1000.0,CHEMBL203154,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=CCCC1(C)SC(=O)C(C)=C1O,,,1000.0,CHEMBL380904,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=CCCCCCCC1(C)SC(=O)C(C)=C1O,,,1000.0,CHEMBL383537,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC/C=C/CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199428,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CC2CCCCC2)SC1=O,,,1000.0,CHEMBL198344,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CC2CCC2)SC1=O,,,1000.0,CHEMBL373005,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCC(C)C1(C)SC(O)=C(C)C1=O,"{'bei': '13.40', 'le': '0.27', 'lle': '-1.83', 'sei': '11.23'}",4.19,65.0,CHEMBL199976,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCC(C)C1(C)SC(O)=C(C)C1=O,"{'bei': '14.50', 'le': '0.30', 'lle': '-1.12', 'sei': '11.06'}",4.12,75.0,CHEMBL199516,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCC(C)C1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199463,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCC(CC)CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL201227,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)SC(C)(CCC(C)C)C1=O,,,1000.0,CHEMBL202928,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,"{'bei': '13.40', 'le': '0.27', 'lle': '-1.77', 'sei': '10.72'}",4.0,100.0,CHEMBL372341,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCC1(C)SC(O)=C(C)C1=O,,,100.0,CHEMBL200363,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL200240,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CCc2ccccc2)SC1=O,,,1000.0,CHEMBL199900,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CCCc2ccccc2)SC1=O,,,1000.0,CHEMBL201423,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1cc(CC2(C)SC(O)=C(C)C2=O)cc(OC)c1,,,1000.0,CHEMBL202817,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2c(C)cc(C)cc2C)SC1=O,,,1000.0,CHEMBL201261,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cc(C)ccc2C)SC1=O,,,1000.0,CHEMBL379235,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(C)c2)SC1=O,,,1000.0,CHEMBL371660,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccccc2C)SC1=O,,,1000.0,CHEMBL381712,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(C(F)(F)F)c2)SC1=O,,,1000.0,CHEMBL201541,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)SC(C)(C(C)c2ccccc2)C1=O,,,1000.0,CHEMBL201752,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc3ccccc3c2)SC1=O,,,1000.0,CHEMBL381559,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C(C)(C)C)cc2)SC1=O,,,1000.0,CHEMBL333571,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2c(Cl)cccc2Cl)SC1=O,,,1000.0,CHEMBL199977,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(F)cc2)SC1=O,,,1000.0,CHEMBL381684,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(Cl)cc2)SC1=O,,,1000.0,CHEMBL382958,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccccc2Cl)SC1=O,,,1000.0,CHEMBL436318,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1cccc(CC2(C)SC(O)=C(C)C2=O)c1,,,1000.0,CHEMBL123184,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1ccccc1CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199810,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2cccc(Cl)c2)SC1=O,,,100.0,CHEMBL201711,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COc1ccc(CC2(C)SC(O)=C(C)C2=O)cc1,,,1000.0,CHEMBL333467,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C)cc2)SC1=O,,,1000.0,CHEMBL432983,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc([N+](=O)[O-])cc2)SC1=O,,,1000.0,CHEMBL203154,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=CCCC1(C)SC(=O)C(C)=C1O,,,1000.0,CHEMBL380904,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=CCCCCCCC1(C)SC(=O)C(C)=C1O,,,1000.0,CHEMBL383537,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC/C=C/CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199428,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CC2CCCCC2)SC1=O,,,1000.0,CHEMBL198344,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(CC2CCC2)SC1=O,,,1000.0,CHEMBL373005,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCC(C)C1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199976,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCC(C)C1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199516,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCC(C)C1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL199463,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCC(CC)CC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL201227,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)SC(C)(CCC(C)C)C1=O,,,1000.0,CHEMBL202928,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCCCC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL372341,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCCCCCCCC1(C)SC(O)=C(C)C1=O,,,1000.0,CHEMBL200363,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(Cl)cc3)cc2)SC1=O,,,130.0,CHEMBL251035,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+C=C/C(C)=C/[C@@]1(C)SC(=O)C(C)=C1O,"{'bei': '19.61', 'le': '0.40', 'lle': '1.14', 'sei': '11.06'}",4.12,75.0,CHEMBL399043,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(Oc3ccccc3)cc2)SC1=O,"{'bei': '14.78', 'le': '0.29', 'lle': '-0.07', 'sei': '10.37'}",4.82,15.0,CHEMBL250630,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(C(=O)c3ccccc3)cc2)SC1=O,,,283.0,CHEMBL400501,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+COC(=O)c1ccc(-c2ccc(CC3(C)SC(=O)C(C)=C3O)cc2)cc1,"{'bei': '14.99', 'le': '0.29', 'lle': '0.97', 'sei': '8.68'}",5.52,3.0,CHEMBL250431,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(C(N)=O)cc3)cc2)SC1=O,"{'bei': '15.27', 'le': '0.29', 'lle': '1.54', 'sei': '6.71'}",5.4,4.0,CHEMBL399477,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(C(=O)O)cc3)cc2)SC1=O,"{'bei': '14.54', 'le': '0.28', 'lle': '0.69', 'sei': '6.91'}",5.16,7.0,CHEMBL250429,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(C)s3)cc2)SC1=O,"{'bei': '12.30', 'le': '0.25', 'lle': '-1.06', 'sei': '10.90'}",4.07,86.0,CHEMBL250824,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC(=O)c1ccc(-c2ccc(CC3(C)SC(=O)C(C)=C3O)cc2)s1,,,200.0,CHEMBL250823,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(-c4ccccc4)cc3)cc2)SC1=O,"{'bei': '10.78', 'le': '0.20', 'lle': '-2.26', 'sei': '11.17'}",4.17,68.0,CHEMBL250819,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(F)cc3)cc2)SC1=O,,,105.0,CHEMBL250818,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3ccc(F)c(F)c3)cc2)SC1=O,,,207.0,CHEMBL401380,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3cc(F)cc(F)c3)cc2)SC1=O,,,135.0,CHEMBL249417,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC(=O)c1cccc(-c2ccc(CC3(C)SC(=O)C(C)=C3O)cc2)c1,,,150.0,CHEMBL249210,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC(=O)c1ccc(-c2ccc(CC3(C)SC(=O)C(C)=C3O)cc2)cc1,"{'bei': '12.11', 'le': '0.23', 'lle': '-0.69', 'sei': '7.85'}",4.27,54.0,CHEMBL249805,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC1=C(O)C(C)(Cc2ccc(-c3cccc(Cl)c3)cc2)SC1=O,,,156.0,CHEMBL400279,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+Cc1ccc(S(=O)(=O)c2cc(O)c3ccccc3c2O)cc1,"{'bei': '29.31', 'le': '0.57', 'lle': '5.82', 'sei': '12.35'}",9.21,0.61,CHEMBL509952,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CS(=O)(=O)c1cc(O)c2ccccc2c1O,"{'bei': '35.47', 'le': '0.72', 'lle': '6.80', 'sei': '11.33'}",8.45,3.53,CHEMBL491752,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+O=C(O)CCS(=O)(=O)c1cc(O)c2ccccc2c1O,"{'bei': '28.53', 'le': '0.58', 'lle': '6.95', 'sei': '7.55'}",8.45,3.53,CHEMBL455414,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+O=S(=O)(c1ccccc1)c1cc(O)c2ccccc2c1O,"{'bei': '28.46', 'le': '0.56', 'lle': '5.47', 'sei': '11.46'}",8.55,2.84,CHEMBL462205,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC(=O)Nc1ccc(S(=O)(=O)c2cc(O)c3ccccc3c2O)cc1,"{'bei': '23.57', 'le': '0.46', 'lle': '5.38', 'sei': '8.12'}",8.43,3.76,CHEMBL512926,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+O=S(=O)(c1ccc(Cl)cc1)c1cc(O)c2ccccc2c1O,"{'bei': '25.22', 'le': '0.52', 'lle': '4.70', 'sei': '11.32'}",8.44,3.61,CHEMBL460104,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCCc1ccc(S(=O)(=O)c2cc(O)c3ccccc3c2O)cc1,"{'bei': '24.85', 'le': '0.48', 'lle': '4.47', 'sei': '11.41'}",8.51,3.09,CHEMBL445555,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+O=S(=O)(c1ccc2ccccc2c1)c1cc(O)c2ccccc2c1O,"{'bei': '25.19', 'le': '0.48', 'lle': '4.59', 'sei': '11.83'}",8.83,1.49,CHEMBL462374,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+Cc1ccc(S(=O)(=O)c2cc(O)c3cc4ccccc4cc3c2O)cc1,"{'bei': '22.15', 'le': '0.42', 'lle': '3.52', 'sei': '10.82'}",8.07,8.47,CHEMBL451059,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+Cc1ccc(S(=O)(=O)c2cc(O)ccc2O)cc1,"{'bei': '28.24', 'le': '0.57', 'lle': '5.22', 'sei': '10.00'}",7.46,34.4,CHEMBL462375,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CC(=O)Nc1ccc(S(=O)(=O)c2cc(O)ccc2O)cc1,"{'bei': '24.41', 'le': '0.49', 'lle': '5.61', 'sei': '7.24'}",7.5,31.4,CHEMBL462376,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+Cc1ccc(S(=O)(=O)c2ccc3ccccc3c2)cc1,"{'bei': '24.29', 'le': '0.47', 'lle': '2.88', 'sei': '20.09'}",6.86,138.1,CHEMBL462553,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+Cc1ccc(S(=O)(=O)C2=CC(=O)c3ccccc3C2=O)cc1,"{'bei': '27.86', 'le': '0.54', 'lle': '5.97', 'sei': '12.74'}",8.7,1.99,CHEMBL454282,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+Cc1ccc(SC2=CC(=O)c3ccccc3C2=O)cc1,"{'bei': '24.79', 'le': '0.47', 'lle': '2.90', 'sei': '20.36'}",6.95,112.0,CHEMBL501551,CHEMBL3640,3-oxoacyl-[acyl-carrier-protein] synthase III,Mycobacterium tuberculosis
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1Br,"{'bei': '12.73', 'le': '0.29', 'lle': '2.37', 'sei': '5.58'}",5.8,1.6,CHEMBL178657,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1-c1ccccc1,"{'bei': '12.81', 'le': '0.25', 'lle': '1.47', 'sei': '5.58'}",5.8,1.6,CHEMBL175611,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)cc(C)c1Br,,,160.0,CHEMBL361610,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1OC,"{'bei': '12.16', 'le': '0.24', 'lle': '2.26', 'sei': '4.37'}",4.94,11.4,CHEMBL180162,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1F,"{'bei': '12.87', 'le': '0.26', 'lle': '2.27', 'sei': '4.89'}",5.08,8.4,CHEMBL178382,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1N1CCCCC1,"{'bei': '12.31', 'le': '0.24', 'lle': '2.00', 'sei': '5.29'}",5.66,2.2,CHEMBL178623,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1Oc1ccccc1,"{'bei': '11.13', 'le': '0.22', 'lle': '0.75', 'sei': '4.61'}",5.21,6.1,CHEMBL178739,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1OCC1CCCC1,"{'bei': '11.96', 'le': '0.23', 'lle': '1.44', 'sei': '5.02'}",5.68,2.1,CHEMBL362422,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '16.71', 'le': '0.30', 'lle': '1.14', 'sei': '7.36'}",5.57,2.7,CHEMBL178465,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(F)c(Oc2ccccc2)c1,"{'bei': '15.43', 'le': '0.28', 'lle': '0.85', 'sei': '7.17'}",5.42,3.8,CHEMBL180428,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(Br)c(Oc2ccccc2)c1,"{'bei': '14.45', 'le': '0.31', 'lle': '0.77', 'sei': '7.88'}",5.96,1.1,CHEMBL178585,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCNCC2)c(Oc2ccccc2)c1,,,185.0,CHEMBL178832,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CN1CCN(c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)CC1,"{'bei': '10.67', 'le': '0.20', 'lle': '0.42', 'sei': '5.60'}",4.6,25.0,CHEMBL179049,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CC1CN(c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)CC(C)N1,"{'bei': '9.92', 'le': '0.18', 'lle': '-0.20', 'sei': '4.86'}",4.42,38.0,CHEMBL180223,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCOCC2)c(Oc2ccccc2)c1,"{'bei': '13.13', 'le': '0.24', 'lle': '1.22', 'sei': '6.24'}",5.5,3.2,CHEMBL179454,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCSCC2)c(Oc2ccccc2)c1,"{'bei': '13.63', 'le': '0.26', 'lle': '0.94', 'sei': '7.51'}",5.92,1.2,CHEMBL180228,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCCCC2)c(Oc2ccccc2)c1,"{'bei': '15.70', 'le': '0.29', 'lle': '1.12', 'sei': '8.29'}",6.54,0.29,CHEMBL179235,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CC1CC(C)CN(c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)C1,"{'bei': '14.78', 'le': '0.27', 'lle': '0.66', 'sei': '8.33'}",6.57,0.27,CHEMBL361554,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2cn[nH]c2)c(Oc2ccccc2)c1,"{'bei': '11.66', 'le': '0.21', 'lle': '-0.16', 'sei': '4.47'}",4.66,22.0,CHEMBL178517,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2cccnc2)c(Oc2ccccc2)c1,"{'bei': '16.95', 'le': '0.31', 'lle': '1.47', 'sei': '7.86'}",6.96,0.11,CHEMBL179595,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '17.71', 'le': '0.32', 'lle': '1.15', 'sei': '9.59'}",7.25,0.056,CHEMBL175848,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(C(F)(F)F)cc2)c(Oc2ccccc2)c1,"{'bei': '14.70', 'le': '0.27', 'lle': '-0.10', 'sei': '9.28'}",7.02,0.096,CHEMBL179596,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(O)c1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '12.52', 'le': '0.23', 'lle': '-0.11', 'sei': '5.03'}",5.68,2.1,CHEMBL180277,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(O)cc2)c(Oc2ccccc2)c1,"{'bei': '15.01', 'le': '0.27', 'lle': '0.59', 'sei': '6.66'}",6.39,0.41,CHEMBL178754,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCOc1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '14.68', 'le': '0.27', 'lle': '0.16', 'sei': '7.85'}",6.66,0.22,CHEMBL179573,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CS(=O)(=O)c1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '15.49', 'le': '0.29', 'lle': '2.05', 'sei': '6.88'}",7.55,0.028,CHEMBL180466,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CC(C)c1cccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)c1,"{'bei': '13.52', 'le': '0.25', 'lle': '-1.12', 'sei': '8.07'}",6.1,0.79,CHEMBL179912,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2cccc(OC(F)(F)F)c2)c(Oc2ccccc2)c1,"{'bei': '12.82', 'le': '0.24', 'lle': '-0.67', 'sei': '7.46'}",6.33,0.47,CHEMBL179678,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+Cc1cc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)ccc1F,"{'bei': '15.00', 'le': '0.27', 'lle': '0.08', 'sei': '8.75'}",6.62,0.24,CHEMBL369324,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(F)c(Cl)c2)c(Oc2ccccc2)c1,"{'bei': '13.52', 'le': '0.26', 'lle': '-0.65', 'sei': '8.26'}",6.24,0.57,CHEMBL179541,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(F)c(F)c2)c(Oc2ccccc2)c1,"{'bei': '14.55', 'le': '0.27', 'lle': '0.11', 'sei': '8.57'}",6.48,0.33,CHEMBL426597,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+Cc1cc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)ccc1Cl,"{'bei': '14.42', 'le': '0.27', 'lle': '-0.46', 'sei': '8.73'}",6.6,0.25,CHEMBL359673,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(F)cc2F)c(Oc2ccccc2)c1,"{'bei': '15.26', 'le': '0.28', 'lle': '0.43', 'sei': '8.99'}",6.8,0.16,CHEMBL180271,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccsc1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '14.72', 'le': '0.28', 'lle': '0.51', 'sei': '6.61'}",5.0,10.1,CHEMBL179033,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1sccc1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '12.87', 'le': '0.25', 'lle': '-0.12', 'sei': '5.77'}",4.37,43.0,CHEMBL179418,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1cccnc1C(=O)O)c1cccc(Oc2ccccc2)c1,,,290.0,CHEMBL179402,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+Cc1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '16.05', 'le': '0.29', 'lle': '0.40', 'sei': '8.99'}",6.8,0.16,CHEMBL195658,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ncccc1C(=O)O)c1cccc(Oc2ccccc2)c1,,,1000.0,CHEMBL193491,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1cccc(F)c1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '14.86', 'le': '0.27', 'lle': '0.65', 'sei': '6.90'}",5.22,6.0,CHEMBL426645,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1cccc(O)c1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '18.28', 'le': '0.34', 'lle': '2.25', 'sei': '6.66'}",6.39,0.41,CHEMBL193840,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cccc(Oc2ccncc2)c1,"{'bei': '14.96', 'le': '0.27', 'lle': '1.18', 'sei': '5.65'}",5.0,10.0,CHEMBL438975,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(O)c1cccc(Oc2cccc(C(=O)Nc3ccccc3C(=O)O)c2)c1,"{'bei': '14.39', 'le': '0.26', 'lle': '1.30', 'sei': '4.81'}",5.43,3.7,CHEMBL434177,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(O)c1ccc(Oc2cccc(C(=O)Nc3ccccc3C(=O)O)c2)cc1,"{'bei': '14.20', 'le': '0.26', 'lle': '1.23', 'sei': '4.74'}",5.36,4.4,CHEMBL193374,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cccc(Oc2ccc(F)cc2)c1,"{'bei': '15.09', 'le': '0.28', 'lle': '0.73', 'sei': '7.01'}",5.3,5.0,CHEMBL191960,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(Br)c(Oc2ccccc2)c1,"{'bei': '16.83', 'le': '0.36', 'lle': '2.31', 'sei': '7.52'}",7.21,0.062,CHEMBL191827,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '19.74', 'le': '0.36', 'lle': '2.60', 'sei': '8.76'}",8.4,0.004,CHEMBL370931,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)cc(C)c1Br,,,3.796,CHEMBL361610,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1Br,"{'bei': '12.73', 'le': '0.29', 'lle': '2.37', 'sei': '5.58'}",5.8,5.796,CHEMBL178657,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1-c1ccccc1,"{'bei': '12.81', 'le': '0.25', 'lle': '1.47', 'sei': '5.58'}",5.8,5.796,CHEMBL175611,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1OC,"{'bei': '12.16', 'le': '0.24', 'lle': '2.26', 'sei': '4.37'}",4.94,4.943,CHEMBL180162,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1F,"{'bei': '12.87', 'le': '0.26', 'lle': '2.27', 'sei': '4.89'}",5.08,5.076,CHEMBL178382,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1N1CCCCC1,"{'bei': '12.31', 'le': '0.24', 'lle': '2.00', 'sei': '5.29'}",5.66,5.658,CHEMBL178623,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1Oc1ccccc1,"{'bei': '11.13', 'le': '0.22', 'lle': '0.75', 'sei': '4.61'}",5.21,5.215,CHEMBL178739,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCN(CC)S(=O)(=O)c1cc(C(=O)Nc2ccccc2C(=O)O)ccc1OCC1CCCC1,"{'bei': '11.96', 'le': '0.23', 'lle': '1.44', 'sei': '5.02'}",5.68,5.678,CHEMBL362422,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '16.71', 'le': '0.30', 'lle': '1.14', 'sei': '7.36'}",5.57,5.569,CHEMBL178465,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(F)c(Oc2ccccc2)c1,"{'bei': '15.43', 'le': '0.28', 'lle': '0.85', 'sei': '7.17'}",5.42,5.42,CHEMBL180428,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(Br)c(Oc2ccccc2)c1,"{'bei': '14.46', 'le': '0.31', 'lle': '0.77', 'sei': '7.88'}",5.96,5.959,CHEMBL178585,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCNCC2)c(Oc2ccccc2)c1,,,3.733,CHEMBL178832,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CN1CCN(c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)CC1,"{'bei': '10.67', 'le': '0.20', 'lle': '0.42', 'sei': '5.60'}",4.6,4.602,CHEMBL179049,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CC1CN(c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)CC(C)N1,"{'bei': '9.92', 'le': '0.18', 'lle': '-0.20', 'sei': '4.86'}",4.42,4.42,CHEMBL180223,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCOCC2)c(Oc2ccccc2)c1,"{'bei': '13.13', 'le': '0.24', 'lle': '1.22', 'sei': '6.24'}",5.5,5.495,CHEMBL179454,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCSCC2)c(Oc2ccccc2)c1,"{'bei': '13.63', 'le': '0.26', 'lle': '0.94', 'sei': '7.51'}",5.92,5.921,CHEMBL180228,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(N2CCCCC2)c(Oc2ccccc2)c1,"{'bei': '15.70', 'le': '0.29', 'lle': '1.12', 'sei': '8.29'}",6.54,6.538,CHEMBL179235,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CC1CC(C)CN(c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)C1,"{'bei': '14.78', 'le': '0.27', 'lle': '0.66', 'sei': '8.33'}",6.57,6.569,CHEMBL361554,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2cn[nH]c2)c(Oc2ccccc2)c1,"{'bei': '11.66', 'le': '0.21', 'lle': '-0.16', 'sei': '4.47'}",4.66,4.658,CHEMBL178517,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2cccnc2)c(Oc2ccccc2)c1,"{'bei': '16.96', 'le': '0.31', 'lle': '1.47', 'sei': '7.86'}",6.96,6.959,CHEMBL179595,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '17.71', 'le': '0.32', 'lle': '1.15', 'sei': '9.59'}",7.25,7.252,CHEMBL175848,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(C(F)(F)F)cc2)c(Oc2ccccc2)c1,"{'bei': '14.70', 'le': '0.27', 'lle': '-0.10', 'sei': '9.28'}",7.02,7.018,CHEMBL179596,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+Cc1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '16.05', 'le': '0.29', 'lle': '0.40', 'sei': '8.98'}",6.79,6.795,CHEMBL195658,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(O)c1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '12.52', 'le': '0.23', 'lle': '-0.11', 'sei': '5.03'}",5.68,5.678,CHEMBL180277,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(O)cc2)c(Oc2ccccc2)c1,"{'bei': '15.01', 'le': '0.27', 'lle': '0.59', 'sei': '6.66'}",6.39,6.387,CHEMBL178754,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CCOc1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '14.68', 'le': '0.27', 'lle': '0.16', 'sei': '7.84'}",6.66,6.657,CHEMBL179573,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CS(=O)(=O)c1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '15.49', 'le': '0.29', 'lle': '2.05', 'sei': '6.88'}",7.55,7.552,CHEMBL180466,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+CC(C)c1cccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)c1,"{'bei': '13.51', 'le': '0.25', 'lle': '-1.12', 'sei': '8.07'}",6.1,6.102,CHEMBL179912,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2cccc(OC(F)(F)F)c2)c(Oc2ccccc2)c1,"{'bei': '12.82', 'le': '0.24', 'lle': '-0.67', 'sei': '7.46'}",6.33,6.328,CHEMBL179678,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+Cc1cc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)ccc1F,"{'bei': '14.99', 'le': '0.27', 'lle': '0.08', 'sei': '8.75'}",6.62,6.619,CHEMBL369324,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(F)c(Cl)c2)c(Oc2ccccc2)c1,"{'bei': '13.52', 'le': '0.26', 'lle': '-0.65', 'sei': '8.26'}",6.24,6.244,CHEMBL179541,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(F)c(F)c2)c(Oc2ccccc2)c1,"{'bei': '14.55', 'le': '0.27', 'lle': '0.11', 'sei': '8.57'}",6.48,6.481,CHEMBL426597,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+Cc1cc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)ccc1Cl,"{'bei': '14.42', 'le': '0.27', 'lle': '-0.46', 'sei': '8.73'}",6.6,6.602,CHEMBL359673,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccc(F)cc2F)c(Oc2ccccc2)c1,"{'bei': '15.26', 'le': '0.28', 'lle': '0.43', 'sei': '8.98'}",6.79,6.795,CHEMBL180271,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(NC1=CCSC1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '14.63', 'le': '0.28', 'lle': '1.71', 'sei': '6.61'}",5.0,4.996,CHEMBL502273,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(NC1SC=CC1C(=O)O)c1cccc(Oc2ccccc2)c1,"{'bei': '12.79', 'le': '0.25', 'lle': '0.87', 'sei': '5.77'}",4.37,4.367,CHEMBL502541,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1cccnc1C(=O)O)c1cccc(Oc2ccccc2)c1,,,3.538,CHEMBL179402,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cc(O)cc(Oc2ccccc2)c1,"{'bei': '18.28', 'le': '0.34', 'lle': '2.25', 'sei': '6.66'}",6.39,6.387,CHEMBL500928,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(O)c1cccc(Oc2cccc(C(=O)Nc3ccccc3C(=O)O)c2)c1,"{'bei': '14.40', 'le': '0.26', 'lle': '1.30', 'sei': '4.81'}",5.43,5.432,CHEMBL434177,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(O)c1ccc(Oc2cccc(C(=O)Nc3ccccc3C(=O)O)c2)cc1,"{'bei': '14.20', 'le': '0.26', 'lle': '1.23', 'sei': '4.74'}",5.36,5.357,CHEMBL193374,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cccc(Oc2ccc(F)cc2)c1,"{'bei': '15.09', 'le': '0.28', 'lle': '0.73', 'sei': '7.01'}",5.3,5.301,CHEMBL191960,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cc(O)c(Br)c(Oc2ccccc2)c1,"{'bei': '16.83', 'le': '0.36', 'lle': '2.31', 'sei': '7.52'}",7.21,7.207,CHEMBL499342,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+O=C(Nc1ccccc1C(=O)O)c1cc(O)c(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '19.74', 'le': '0.36', 'lle': '2.60', 'sei': '8.76'}",8.4,8.398,CHEMBL499343,CHEMBL5070,Beta-ketoacyl-ACP synthase III,Enterococcus faecalis (strain ATCC 700802 / V583)
+Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/Nc2nc(-c3ccccc3)cs2)cc1,"{'bei': '11.78', 'le': '0.23', 'lle': '0.53', 'sei': '4.92'}",5.28,5.2,CHEMBL3357052,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+COc1ccc(-c2csc(N/N=C/c3ccc(OCCn4c([N+](=O)[O-])cnc4C)cc3)n2)cc1,"{'bei': '10.90', 'le': '0.21', 'lle': '0.45', 'sei': '4.47'}",5.21,6.1,CHEMBL3357053,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/Nc2nc(-c3ccc(Br)cc3)cs2)cc1,"{'bei': '9.87', 'le': '0.22', 'lle': '-0.30', 'sei': '4.85'}",5.21,6.2,CHEMBL3357054,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/Nc2nc(-c3ccc(C(F)(F)F)cc3)cs2)cc1,"{'bei': '9.96', 'le': '0.20', 'lle': '-0.63', 'sei': '4.79'}",5.14,7.2,CHEMBL3357055,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/Nc2nc(-c3ccccc3Br)cs2)cc1,"{'bei': '10.07', 'le': '0.22', 'lle': '-0.20', 'sei': '4.94'}",5.31,4.9,CHEMBL3352863,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+Cc1ncc([N+](=O)[O-])n1CCOc1cccc(/C=N/Nc2nc(-c3ccccc3)cs2)c1,"{'bei': '11.29', 'le': '0.22', 'lle': '0.32', 'sei': '4.71'}",5.07,8.6,CHEMBL3357056,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+COc1ccc(-c2csc(N/N=C/c3cccc(OCCn4c([N+](=O)[O-])cnc4C)c3)n2)cc1,"{'bei': '10.52', 'le': '0.20', 'lle': '0.28', 'sei': '4.32'}",5.04,9.2,CHEMBL3357057,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+Cc1ncc([N+](=O)[O-])n1CCOc1cccc(/C=N/Nc2nc(-c3ccc(Br)cc3)cs2)c1,"{'bei': '8.88', 'le': '0.19', 'lle': '-0.83', 'sei': '4.36'}",4.68,20.8,CHEMBL3357058,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+Cc1ncc([N+](=O)[O-])n1CCOc1cccc(/C=N/Nc2nc(-c3ccc(C(F)(F)F)cc3)cs2)c1,"{'bei': '9.43', 'le': '0.18', 'lle': '-0.90', 'sei': '4.53'}",4.87,13.5,CHEMBL3357059,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+Cc1ncc([N+](=O)[O-])n1CCOc1cccc(/C=N/Nc2nc(-c3ccccc3Br)cs2)c1,"{'bei': '8.42', 'le': '0.18', 'lle': '-1.07', 'sei': '4.13'}",4.44,36.2,CHEMBL3357562,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O,"{'bei': '10.67', 'le': '0.21', 'lle': '12.46', 'sei': '1.83'}",5.17,6.8,CHEMBL1384,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O,"{'bei': '10.86', 'le': '0.22', 'lle': '12.58', 'sei': '1.82'}",5.25,5.6,CHEMBL176,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1cccc2ccccc12)c1ccc2c(c1)OCCCO2,"{'bei': '15.25', 'le': '0.28', 'lle': '1.51', 'sei': '8.82'}",5.28,5.2,CHEMBL4079235,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc2ccccc2c1)c1ccc2c(c1)OCCCO2,"{'bei': '15.41', 'le': '0.28', 'lle': '1.57', 'sei': '8.91'}",5.34,4.6,CHEMBL4103490,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1cc([N+](=O)[O-])ccc1F)c1ccc2c(c1)OCCCO2,"{'bei': '13.98', 'le': '0.26', 'lle': '2.36', 'sei': '4.87'}",5.02,9.5,CHEMBL4087113,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1cc([N+](=O)[O-])ccc1Cl)c1ccc2c(c1)OCCCO2,"{'bei': '14.39', 'le': '0.28', 'lle': '2.24', 'sei': '5.25'}",5.41,3.9,CHEMBL4065688,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(Cl)c([N+](=O)[O-])c1)c1ccc2c(c1)OCCCO2,"{'bei': '14.25', 'le': '0.28', 'lle': '2.19', 'sei': '5.20'}",5.36,4.4,CHEMBL4099657,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(F)c([N+](=O)[O-])c1)c1ccc2c(c1)OCCCO2,"{'bei': '14.73', 'le': '0.28', 'lle': '2.63', 'sei': '5.14'}",5.29,5.1,CHEMBL4072772,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1c(F)cccc1Cl)c1ccc2c(c1)OCCCO2,"{'bei': '13.44', 'le': '0.27', 'lle': '1.29', 'sei': '7.82'}",4.69,20.6,CHEMBL4103082,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(Cl)cc1Cl)c1ccc2c(c1)OCCCO2,"{'bei': '14.69', 'le': '0.31', 'lle': '1.45', 'sei': '8.96'}",5.37,4.3,CHEMBL4078806,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1cc(Cl)cc(Cl)c1O)c1ccc2c(c1)OCCCO2,"{'bei': '13.82', 'le': '0.29', 'lle': '1.65', 'sei': '6.57'}",5.27,5.4,CHEMBL4095328,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1cc([N+](=O)[O-])ccc1O)c1ccc2c(c1)OCCCO2,"{'bei': '15.27', 'le': '0.29', 'lle': '3.23', 'sei': '4.43'}",5.46,3.5,CHEMBL4067921,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+CN(C)c1ccc(/C=N/NC(=O)c2ccc3c(c2)OCCCO3)c(O)c1,"{'bei': '14.56', 'le': '0.27', 'lle': '2.79', 'sei': '6.20'}",5.17,6.7,CHEMBL4073816,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1cc(Cl)ccc1O)c1ccc2c(c1)OCCCO2,"{'bei': '14.07', 'le': '0.28', 'lle': '1.91', 'sei': '6.09'}",4.88,13.2,CHEMBL4094398,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(O)c([N+](=O)[O-])c1)c1ccc2c(c1)OCCCO2,"{'bei': '14.13', 'le': '0.27', 'lle': '2.82', 'sei': '4.10'}",5.05,8.9,CHEMBL4065221,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(O)c(O)c1)c1ccc2c(c1)OCCCO2,"{'bei': '15.56', 'le': '0.29', 'lle': '3.09', 'sei': '5.09'}",5.11,7.8,CHEMBL4086659,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+COc1cc(/C=N/NC(=O)c2ccc3c(c2)OCCCO3)cc(OC)c1O,"{'bei': '14.53', 'le': '0.27', 'lle': '3.08', 'sei': '5.49'}",5.41,3.9,CHEMBL4074137,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+COc1cc(/C=N/NC(=O)c2ccc3c(c2)OCCCO3)cc(OC)c1OC,"{'bei': '14.75', 'le': '0.28', 'lle': '3.06', 'sei': '6.50'}",5.7,2.0,CHEMBL4100896,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+COc1ccc(/C=N/NC(=O)c2ccc3c(c2)OCCCO3)cc1OC,"{'bei': '15.12', 'le': '0.28', 'lle': '2.76', 'sei': '6.87'}",5.39,4.1,CHEMBL4088887,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+COc1ccc(/C=N/NC(=O)c2ccc3c(c2)OCCCO3)cc1,"{'bei': '14.15', 'le': '0.26', 'lle': '2.00', 'sei': '6.68'}",4.62,24.1,CHEMBL4067660,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(O)cc1)c1ccc2c(c1)OCCCO2,"{'bei': '14.13', 'le': '0.26', 'lle': '2.09', 'sei': '5.51'}",4.41,38.7,CHEMBL4080993,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(-c2ccccc2)cc1)c1ccc2c(c1)OCCCO2,"{'bei': '14.31', 'le': '0.26', 'lle': '1.05', 'sei': '8.89'}",5.33,4.7,CHEMBL4105238,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(I)cc1)c1ccc2c(c1)OCCCO2,"{'bei': '12.22', 'le': '0.31', 'lle': '1.94', 'sei': '8.61'}",5.16,6.9,CHEMBL4070353,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(F)cc1)c1ccc2c(c1)OCCCO2,"{'bei': '14.28', 'le': '0.27', 'lle': '1.74', 'sei': '7.49'}",4.49,32.5,CHEMBL4098727,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc(C(F)(F)F)cc1)c1ccc2c(c1)OCCCO2,"{'bei': '13.47', 'le': '0.26', 'lle': '1.28', 'sei': '8.19'}",4.91,12.4,CHEMBL4061696,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(N/N=C/c1ccc([N+](=O)[O-])cc1)c1ccc2c(c1)OCCCO2,"{'bei': '13.93', 'le': '0.26', 'lle': '2.23', 'sei': '4.61'}",4.75,17.6,CHEMBL4089804,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+CN(C)c1ccc(/C=N/NC(=O)c2ccc3c(c2)OCCCO3)cc1,"{'bei': '15.15', 'le': '0.28', 'lle': '2.46', 'sei': '8.14'}",5.14,7.2,CHEMBL4100480,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+C(=N/C1CCCCC1)\c1ccc2c(c1)OCCCO2,"{'bei': '22.35', 'le': '0.42', 'lle': '2.20', 'sei': '18.81'}",5.8,1.6,CHEMBL4100081,CHEMBL4914,3-oxoacyl-[acyl-carrier-protein] synthase 3,Escherichia coli K-12
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,,,100.0,CHEMBL175848,CHEMBL3822,Beta-ketoacyl-ACP synthase III,Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+CS(=O)(=O)c1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,,,100.0,CHEMBL180466,CHEMBL3822,Beta-ketoacyl-ACP synthase III,Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(Br)c(Oc2ccccc2)c1,"{'bei': '10.97', 'le': '0.24', 'lle': '-0.20', 'sei': '4.90'}",4.7,20.0,CHEMBL191827,CHEMBL3822,Beta-ketoacyl-ACP synthase III,Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '13.21', 'le': '0.24', 'lle': '-0.18', 'sei': '5.86'}",5.62,2.4,CHEMBL370931,CHEMBL3822,Beta-ketoacyl-ACP synthase III,Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '17.83', 'le': '0.32', 'lle': '1.20', 'sei': '9.65'}",7.3,0.05,CHEMBL175848,CHEMBL3672,Beta-ketoacyl-ACP synthase III,Streptococcus pyogenes serotype M3 (strain ATCC BAA-595 / MGAS315)
+CS(=O)(=O)c1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '17.48', 'le': '0.33', 'lle': '3.02', 'sei': '7.76'}",8.52,0.003,CHEMBL180466,CHEMBL3672,Beta-ketoacyl-ACP synthase III,Streptococcus pyogenes serotype M3 (strain ATCC BAA-595 / MGAS315)
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(Br)c(Oc2ccccc2)c1,"{'bei': '17.44', 'le': '0.38', 'lle': '2.57', 'sei': '7.79'}",7.47,0.034,CHEMBL191827,CHEMBL3672,Beta-ketoacyl-ACP synthase III,Streptococcus pyogenes serotype M3 (strain ATCC BAA-595 / MGAS315)
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '19.74', 'le': '0.36', 'lle': '2.60', 'sei': '8.76'}",8.4,0.004,CHEMBL370931,CHEMBL3672,Beta-ketoacyl-ACP synthase III,Streptococcus pyogenes serotype M3 (strain ATCC BAA-595 / MGAS315)
+O=C(Nc1ccccc1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '12.21', 'le': '0.22', 'lle': '-1.10', 'sei': '6.61'}",5.0,10.0,CHEMBL175848,CHEMBL3673,Beta-ketoacyl-ACP synthase III,Staphylococcus aureus subsp. aureus Mu50
+CS(=O)(=O)c1ccc(-c2ccc(C(=O)Nc3ccccc3C(=O)O)cc2Oc2ccccc2)cc1,"{'bei': '9.48', 'le': '0.18', 'lle': '-0.88', 'sei': '4.21'}",4.62,24.0,CHEMBL180466,CHEMBL3673,Beta-ketoacyl-ACP synthase III,Staphylococcus aureus subsp. aureus Mu50
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(Br)c(Oc2ccccc2)c1,"{'bei': '11.47', 'le': '0.25', 'lle': '0.01', 'sei': '5.12'}",4.91,12.3,CHEMBL191827,CHEMBL3673,Beta-ketoacyl-ACP synthase III,Staphylococcus aureus subsp. aureus Mu50
+O=C(Nc1cccc(O)c1C(=O)O)c1ccc(-c2ccccc2)c(Oc2ccccc2)c1,"{'bei': '12.74', 'le': '0.23', 'lle': '-0.38', 'sei': '5.65'}",5.42,3.8,CHEMBL370931,CHEMBL3673,Beta-ketoacyl-ACP synthase III,Staphylococcus aureus subsp. aureus Mu50
